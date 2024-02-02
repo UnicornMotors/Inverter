@@ -1,12 +1,15 @@
 # Inverter
 # Market.
-## 1.5 Kw
+## 600 watt rated - 1.5 Kw Peak
 - https://www.walmart.com/ip/1500W-Power-Inverter-Car-Power-Inverter-DC-12V-to-AC-110V-Car-Converter-with-LED-Display-Remote-Yellow/1818462149
 
 in store:
 - https://www.walmart.com/ip/LVYUAN-1500-Watts-Peak-Power-Inverter-Car-Converter-Adapter-USB-Charger-Modified-Sine-Wave-DC-12v-to-AC-110V-Red/240360352?fulfillmentIntent=Shipping&athbdg=L1600
 
-## 6 Kw
+## 4 Kw
+- https://www.walmart.com/ip/Carbole-4000W-Pure-Sine-Wave-Inverter-Power-Inverter-DC-12V-to-AC-120V-Car-Inverter-for-RV-Truck-Car-Solar-System-Travel-Camping/1530634350
+
+## 6 Kw Peak
 - https://www.walmart.com/ip/6000W-Power-Inverter-DC-12V-to-AC-110V-Car-Inverter-with-USB-Port-for-RV-Truck-Car-Solar-System-Travel-Camping/1449812128
 
 # sch:
